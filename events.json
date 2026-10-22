@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "events": [
+    {
+      "id": "nightmareland",
+      "name": "NightmareLand",
+      "description": "Lo que debía ser un vuelo comercial rutinario se convierte en la peor de las pesadillas cuando un fallo catastrófico derriba la aeronave en el corazón de un bosque remoto e inhóspito.",
+      "serverAddress": "nightmareland.seedloaf.gg:49928",
+      "minecraftVersion": "1.20.1",
+      "forgeVersion": "47.4.28",
+      "logoUrl": "https://raw.githubusercontent.com/KarlosR98/KronaLauncher-Updates/main/events/nightmareland.png",
+      "package": {
+        "url": "https://github.com/KarlosR98/KronaLauncher-Updates/releases/download/event-nightmareland-1.0.0/mods.zip",
+        "sha256": "c929a0e5f35a6fcd05e6b0f7e72bd7ceeed54515a7400e4fb94f0104234ad531",
+        "size": 93597793
+      }
+    }
+  ]
+}
